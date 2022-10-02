@@ -1,2 +1,2 @@
-idf_component_register(SRCS "m5core2-basic.c"
+idf_component_register(SRCS "main.c"
                     INCLUDE_DIRS ".")
